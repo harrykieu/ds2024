@@ -1,14 +1,12 @@
-USTH 2024: DISTRIBUTED SYSTEM
-=====================================================
+# USTH 2024: DISTRIBUTED SYSTEM
 
 Students are expected to:
-* Fork this repository to your github account
-* Push your commits regularly, with **proper** commit messages
 
+- Fork this repository to your github account
+- Push your commits regularly, with **proper** commit messages
 
-Student Info
-=========================
+# Student Info
 
-* Student Name: Kieu Huy Hai
-* Student ID: BI12-149
-* Student Group ID: Not-for-now
+- Student Name: Kieu Huy Hai
+- Student ID: BI12-149
+- Student Group ID: 8
